@@ -1,0 +1,62 @@
+.heading h3 {
+
+  display: inline;
+
+}
+
+.copy_right_footer {
+
+  position: fixed;
+
+}
+
+.heading {
+
+  width: 100%;
+
+}
+
+.heading button {
+
+  float: right;
+  border: 2.8px solid white;
+
+}
+
+.mario {
+
+  width: 100%;
+  position: center;
+ 
+}
+
+#start_btn,#status {
+
+  font-size: 23px;
+
+}
+
+#credits {
+ 
+  background-color: grey;
+  line-height: 25px;
+  margin-bottom: 0px;
+
+}
+
+.img_ins {
+
+  height: 70px;
+  width: 35%;  
+  display: inline-block;
+
+}
+
+video {
+
+  background: url("game_console.png");
+  background-size: cover;
+  background-position: center;
+  padding: 25px;
+
+}
